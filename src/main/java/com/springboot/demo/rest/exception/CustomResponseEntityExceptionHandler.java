@@ -1,4 +1,4 @@
-package rest.exception;
+package com.springboot.demo.rest.exception;
 
 import com.springboot.demo.rest.student.exception.DuplicateStudentFoundException;
 import com.springboot.demo.rest.student.exception.StudentNotFoundException;

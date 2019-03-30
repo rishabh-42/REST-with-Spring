@@ -1,4 +1,4 @@
-package rest.student.exception;
+package com.springboot.demo.rest.student.exception;
 
 public class StudentNotFoundException extends RuntimeException {
 

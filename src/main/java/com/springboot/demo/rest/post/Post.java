@@ -1,4 +1,4 @@
-package rest.post;
+package com.springboot.demo.rest.post;
 
 public class Post {
     Long userId;

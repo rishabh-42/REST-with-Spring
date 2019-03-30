@@ -1,4 +1,4 @@
-package rest;
+package com.springboot.demo.rest;
 
 import com.springboot.demo.rest.student.Student;
 import com.springboot.demo.rest.student.service.StudentService;

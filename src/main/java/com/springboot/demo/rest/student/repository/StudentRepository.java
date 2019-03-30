@@ -1,4 +1,4 @@
-package rest.student.repository;
+package com.springboot.demo.rest.student.repository;
 
 import com.springboot.demo.rest.student.Student;
 import org.springframework.data.repository.CrudRepository;

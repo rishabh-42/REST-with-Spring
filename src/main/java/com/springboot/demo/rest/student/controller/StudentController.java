@@ -1,4 +1,4 @@
-package rest.student.controller;
+package com.springboot.demo.rest.student.controller;
 
 import com.springboot.demo.rest.student.Student;
 import com.springboot.demo.rest.student.exception.DuplicateStudentFoundException;

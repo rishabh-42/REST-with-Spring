@@ -1,4 +1,4 @@
-package rest.student;
+package com.springboot.demo.rest.student;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 

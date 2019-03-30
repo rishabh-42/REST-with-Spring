@@ -1,4 +1,4 @@
-package rest.post;
+package com.springboot.demo.rest.post;
 
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.http.*;

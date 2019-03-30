@@ -1,4 +1,4 @@
-package rest.student.version;
+package com.springboot.demo.rest.student.version;
 
 public class StudentV2 {
 

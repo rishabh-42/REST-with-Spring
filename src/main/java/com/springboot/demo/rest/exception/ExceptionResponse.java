@@ -1,4 +1,4 @@
-package rest.exception;
+package com.springboot.demo.rest.exception;
 
 import java.util.Date;
 
