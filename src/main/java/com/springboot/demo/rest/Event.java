@@ -23,8 +23,8 @@ public class Event {
             if(((List) studentList​).isEmpty())
             {
                 System.out.println("In Event");
-                List<Student> studentListToBeSaved = Arrays.asList(new Student("Vagish", 23)
-                        , new Student("Gagan", 24), new Student("Prateek", 25));
+                List<Student> studentListToBeSaved = Arrays.asList(new Student("Rishabh", 23)
+                        , new Student("Gagan", 29), new Student("Yukti", 25));
                 studentService.saveAll(studentListToBeSaved);
             }
 
